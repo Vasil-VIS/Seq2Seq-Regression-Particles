@@ -5,4 +5,4 @@ The dataset consists of simulations of the trajectory of a single particle. The 
 There are 150 simulations for training, 100 for validation, and 100 for testing. The simulations are of 100 ± 10 steps alongside their continuation of 40 ± 20 steps.
 
 ## ML Task
-Using the positions of the particle during a simulation up to t = 10±1, continue its trajectory for an additional 4 ± 2 seconds.
+Using the positions of the particle during a simulation up to t = 10±1, the task is to continue its trajectory for an additional 4 ± 2 seconds.
